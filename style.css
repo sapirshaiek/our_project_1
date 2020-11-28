@@ -1,0 +1,73 @@
+ 
+
+#my_header { 
+    color:#FA8072;
+    font-size: 90px;
+   }
+.subHeader { 
+    color:#FA8072;
+    padding-right: 10%;
+   }
+   
+   
+   body { 
+    background : #FFFFE0;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+    }
+    .headerPic{
+        text-align: center;
+        width: 60%;
+    display: block;
+         width: 100%;
+    }
+    .picked{
+        opacity: 80%;
+        border: 10px black solid;
+    }
+    .icon{
+        width: 70px;
+    }
+    
+   .avatar:hover {
+        opacity: 30%;
+        cursor: pointer;
+    }
+
+   
+   
+   #table {
+       
+       border-collapse: collapse;
+       text-align: center;
+       width: 100%;
+       background-color: white;
+       
+   }
+   
+   #table tr td{
+       background-color: #2f3640;
+       color: white;
+       height: 30px;
+       width: 50px;
+     padding: 5px;
+       border: 1px solid #ddd;
+       
+   }
+   
+
+   
+   #HIM_H
+   {
+      text-align:  right;
+      width: 60%;
+    display: block;
+   }
+   
+   
+   
+   
